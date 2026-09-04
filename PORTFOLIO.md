@@ -9,3 +9,11 @@ A lo largo de la carrera trabajé con tecnologías como **Java, Python, SQL y My
 En **Metodología en Sistemas I** estoy aprendiendo a utilizar herramientas de **control de versiones**, principalmente **Git y GitHub**, integradas directamente con **Visual Studio Code**. También estoy aprendiendo a trabajar con ramas para organizar el desarrollo de funcionalidades y a documentar el proceso de trabajo de manera clara y ordenada.
 
 Este portfolio reúne parte de mi proceso de aprendizaje y tiene como objetivo mostrar los proyectos realizados, las herramientas utilizadas y la evolución de mis conocimientos a lo largo de la carrera.
+
+## Habilidades Técnicas
+
+- **Lenguajes de Programación:** Python, Java, JavaScript, TypeScript
+- **Bases de Datos:** MySQL, SQL
+- **Desarrollo Web:** HTML5, CSS3
+- **Control de Versiones y Herramientas:** Git, GitHub, Visual Studio Code
+- **Conceptos:** Programación Orientada a Objetos (POO), arquitectura de software, metodologías de desarrollo
